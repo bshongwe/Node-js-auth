@@ -1,7 +1,7 @@
 # Node.js Authentification
 First developed by Imtiyaz Nandasaniya and Dimas Rachmadika
-
 This is an example that builds a secure login system using JWT
+Still going to develop this project further
 
 
 ## Why Authentification?
